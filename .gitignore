@@ -1,0 +1,8 @@
+﻿# Keep repo end-user friendly: only publish installer + docs
+# Local source stays on disk, but not on GitHub
+
+*
+!SharePrinterSetup.exe
+!README.md
+!LICENSE
+!.gitignore
